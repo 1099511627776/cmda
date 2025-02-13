@@ -67,7 +67,7 @@ Resources:
   CmdaFunction:
     Type: AWS::Serverless::Function
     Properties:
-      Runtime: nodejs18.x
+      Runtime: nodejs22.x
       CodeUri: lambda/dist
       Handler: index.handler
       MemorySize: 3008

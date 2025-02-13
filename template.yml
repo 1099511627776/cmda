@@ -11,7 +11,7 @@ Metadata:
     Labels: ['lambda', 'filesystem', 'efs']
     HomePageUrl: https://github.com/lambci/cmda
     SemanticVersion: 1.2.0
-    SourceCodeUrl: https://github.com/lambci/cmda/tree/v1.2.0
+    SourceCodeUrl: https://github.com/1099511627776/cmda/tree/master
   AWS::CloudFormation::Interface:
     ParameterGroups:
       - Label:
